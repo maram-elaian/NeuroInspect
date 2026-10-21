@@ -213,6 +213,11 @@ tempCodeRunnerFile.py
 
 # Marimo
 marimo/_static/
+data/
+*.pth
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
 marimo/_lsp/
 __marimo__/
 
