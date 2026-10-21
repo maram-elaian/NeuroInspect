@@ -1,1 +1,16 @@
-
+category,n_train,test_good,test_defect,n_defect_types
+bottle,209,20,63,3
+cable,224,58,92,8
+capsule,219,23,109,5
+carpet,280,28,89,5
+grid,264,21,57,5
+hazelnut,391,40,70,4
+leather,245,32,92,5
+metal_nut,220,22,93,4
+pill,267,26,141,7
+screw,320,41,119,5
+tile,230,33,84,5
+toothbrush,60,12,30,1
+transistor,213,60,40,4
+wood,247,19,60,5
+zipper,240,32,119,7
